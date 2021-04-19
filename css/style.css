@@ -1,0 +1,69 @@
+body {
+    background-image: url('../assets/images/converge.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+h1 {
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    color: floralwhite;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    border-radius: 25px;
+    font-family: 'Titillium Web', sans-serif;
+}
+.lead-game-text {
+    margin-right: 850px;
+    font-size: large;
+    font-family: 'Titillium Web', sans-serif;
+    border-radius: 25px;
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+    padding: 25px;
+}
+#directions-text{
+    margin-left: 140px;
+    margin-right: 1000px;
+    font-size: large;
+    font-family: 'Titillium Web', sans-serif;
+    border-radius: 25px;
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+    padding: 25px;
+}
+#display-letters{
+    text-align: center;
+    font-size: large;
+    margin-left: 500px;
+    margin-right: 200px;
+    color: floralwhite;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    border-radius: 25px;
+    font-family: 'Titillium Web', sans-serif;
+    letter-spacing: 10px;
+}
+#remaining-guesses-text {
+    margin-left: 140px;
+    margin-right: 1100px;
+    font-size: large;
+    font-family: 'Titillium Web', sans-serif;
+    border-radius: 25px;
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+    padding: 0px;
+}
+#userguess-text {
+    margin-left: 140px;
+    margin-right: 1100px;
+    font-size: large;
+    font-family: 'Titillium Web', sans-serif;
+    border-radius: 25px;
+    border-color: whitesmoke;
+    background-color: whitesmoke;
+    padding: 0px;
+}
